@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+.venv/
+env/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore MacOS system files
+.DS_Store
+
+# ignore generated imge files
+*.png
+
+
