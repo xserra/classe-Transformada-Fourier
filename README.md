@@ -1,7 +1,6 @@
-material for a Fourier Transform class, including lectures slides, a lab notebook assignment, and sounds (most of them coming from freesound.org).
+Materials for a 1h introductory class on the Discrete Fourier Transform for audio and music applications, including lectures slides, a lab notebook assignment, and sounds (most of them coming from freesound.org).
 
-To install the materials, create a virtual environment and install the dependencies.
-On Mac/Linux this will be:
+To install the materials, create a virtual environment and install the dependencies. On Mac/Linux this will be:
 
     python -m venv .venv
     source .venv/bin/activate
